@@ -49,8 +49,8 @@ var charmander = {
     }]
 };
 
-var raichu = {
-    name: "Raichu",
+var pikachu = {
+    name: "Pikachu",
     //health: 100,
     lvl: 50,
     type: ["Electric"],
